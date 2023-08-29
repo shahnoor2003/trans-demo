@@ -38,7 +38,7 @@ header .in-head .header-2 .inside-header-2 img {
 }
 
 .home {
-  background-image: url("/images/home-bg.png");
+  background-image: url("../images/home-bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
